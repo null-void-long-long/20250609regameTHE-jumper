@@ -160,7 +160,7 @@ GitHub Pages에서 바로 플레이하세요: [플레이하기]https://null-void
 ## 📞 연락처
 
 - **개발자**: [조성민](mailto:your-email@example.com)
-- **프로젝트**: [GitHub](https://github.com/null-void-long-long/the-jumper)
+- **프로젝트**: [GitHub]( https://null-void-long-long.github.io/20250609regameTHE-jumper/)
 - **이슈**: [Issues](https://github.com/null-void-long-long/the-jumper/issues)
 
 ---
