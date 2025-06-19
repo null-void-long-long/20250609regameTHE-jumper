@@ -274,7 +274,9 @@ Closes #123
 ## 📞 도움이 필요하신가요?
 
 - 💬 **토론**: [GitHub Discussions]( https://null-void-long-long.github.io/20250609regameTHE-jumper/discussions)
-- 📧 **이메일**: your-email@example.com
+- 📧 **이메일**:"email": "user0000h1@gmail.com",
+
+
 - 🐛 **버그 리포트**: [Issues]( https://null-void-long-long.github.io/20250609regameTHE-jumper/issues)
 
 ## 🙏 감사합니다!
