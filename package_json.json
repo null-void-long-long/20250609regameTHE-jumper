@@ -1,0 +1,50 @@
+{
+  "name": "the-jumper",
+  "version": "1.0.0",
+  "description": "리듬 기반 플랫포머 게임 - 지오메트리 대시에서 영감을 받은 웹 게임",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || npx serve .",
+    "dev": "npx live-server --port=8000",
+    "build": "echo 'No build process needed for vanilla HTML/JS'",
+    "test": "echo 'Tests will be added in future versions'",
+    "lint": "echo 'Linting will be added in future versions'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/the-jumper.git"
+  },
+  "keywords": [
+    "game",
+    "html5",
+    "canvas",
+    "javascript",
+    "platformer",
+    "rhythm",
+    "geometry-dash",
+    "web-game",
+    "browser-game",
+    "arcade"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your-email@example.com",
+    "url": "https://github.com/your-username"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/the-jumper/issues"
+  },
+  "homepage": "https://your-username.github.io/the-jumper/",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
