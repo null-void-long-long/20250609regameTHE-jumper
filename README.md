@@ -63,7 +63,7 @@
 ### 💻 로컬에서 실행
 1. 리포지토리를 클론합니다
 ```bash
-git clone https://github.com/your-username/the-jumper.git
+git clone https://null-void-long-long.github.io/20250609regameTHE-jumper.git
 cd the-jumper
 ```
 
@@ -81,7 +81,7 @@ npx serve .
 3. 브라우저에서 `http://localhost:8000`으로 접속
 
 ### 🌐 온라인 플레이
-GitHub Pages에서 바로 플레이하세요: [플레이하기](https://your-username.github.io/the-jumper/)
+GitHub Pages에서 바로 플레이하세요: [플레이하기]https://null-void-long-long.github.io/20250609regameTHE-jumper/]
 
 ## 📱 브라우저 지원
 
@@ -135,10 +135,10 @@ GitHub Pages에서 바로 플레이하세요: [플레이하기](https://your-use
 프로젝트 개선에 참여해주세요! 
 
 ### 🐛 버그 리포트
-버그를 발견하셨나요? [이슈](https://github.com/your-username/the-jumper/issues)를 등록해주세요.
+버그를 발견하셨나요? [이슈](https://github.com/null-void-long-long/the-jumper/issues)를 등록해주세요.
 
 ### 💡 새 기능 제안
-새로운 아이디어가 있으신가요? [토론](https://github.com/your-username/the-jumper/discussions)에서 공유해주세요.
+새로운 아이디어가 있으신가요? [토론](https://github.com/null-void-long-long/the-jumper/discussions)에서 공유해주세요.
 
 ### 🔧 Pull Request
 1. 리포지토리를 포크합니다
@@ -159,9 +159,9 @@ GitHub Pages에서 바로 플레이하세요: [플레이하기](https://your-use
 
 ## 📞 연락처
 
-- **개발자**: [당신의 이름](mailto:your-email@example.com)
-- **프로젝트**: [GitHub](https://github.com/your-username/the-jumper)
-- **이슈**: [Issues](https://github.com/your-username/the-jumper/issues)
+- **개발자**: [조성민](mailto:your-email@example.com)
+- **프로젝트**: [GitHub](https://github.com/null-void-long-long/the-jumper)
+- **이슈**: [Issues](https://github.com/null-void-long-long/the-jumper/issues)
 
 ---
 
