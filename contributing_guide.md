@@ -33,13 +33,13 @@ The Jumper 프로젝트에 관심을 가져주셔서 감사합니다! 이 문서
 1. 리포지토리 포크
 ```bash
 # GitHub에서 Fork 버튼 클릭 후
-git clone https://github.com/YOUR_USERNAME/the-jumper.git
+git clone https://null-void-long-long.github.io/20250609regameTHE-jumper.git
 cd the-jumper
 ```
 
 2. 원본 리포지토리를 upstream으로 추가
 ```bash
-git remote add upstream https://github.com/ORIGINAL_OWNER/the-jumper.git
+git remote add upstream  https://null-void-long-long.github.io/20250609regameTHE-jumper.git
 ```
 
 3. 로컬 서버 실행 (선택사항)
@@ -273,9 +273,9 @@ Closes #123
 
 ## 📞 도움이 필요하신가요?
 
-- 💬 **토론**: [GitHub Discussions](https://github.com/your-username/the-jumper/discussions)
+- 💬 **토론**: [GitHub Discussions]( https://null-void-long-long.github.io/20250609regameTHE-jumper/discussions)
 - 📧 **이메일**: your-email@example.com
-- 🐛 **버그 리포트**: [Issues](https://github.com/your-username/the-jumper/issues)
+- 🐛 **버그 리포트**: [Issues]( https://null-void-long-long.github.io/20250609regameTHE-jumper/issues)
 
 ## 🙏 감사합니다!
 
